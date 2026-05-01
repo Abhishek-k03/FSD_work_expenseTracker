@@ -1,9 +1,10 @@
 Add your screenshots here (PNG/JPG/WebP).
 
-Suggested filenames:
+Current files:
 
-- dashboard.png
+- homedark.png
+- homelight.png
 - login.png
-- signup.png
+- register.png
 
-These images are referenced from README.md and can be used in docs or the app.
+These images are referenced from the root README and can be used in docs or the app.

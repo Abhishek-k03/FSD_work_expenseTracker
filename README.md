@@ -25,11 +25,19 @@ Visit `http://localhost:3000` for the client and `http://localhost:8080` for the
 
 ## Screenshots & Sample Data
 
-Add screenshots to `frontend/public/screenshots/` and sample data (JSON) to `backend/sample-data/`.
+The UI screenshots live in `frontend/public/screenshots/`.
 
-- Dashboard: `frontend/public/screenshots/dashboard.png` (placeholder)
-- Login: `frontend/public/screenshots/login.png` (placeholder)
-- Signup: `frontend/public/screenshots/signup.png` (placeholder)
+- Home dashboard: [frontend/public/screenshots/homedark.png](frontend/public/screenshots/homedark.png)
+- Home dashboard, light theme: [frontend/public/screenshots/homelight.png](frontend/public/screenshots/homelight.png)
+- Login: [frontend/public/screenshots/login.png](frontend/public/screenshots/login.png)
+- Register: [frontend/public/screenshots/register.png](frontend/public/screenshots/register.png)
+
+Sample data can be added under `backend/sample-data/` if needed.
+
+![Home dashboard dark](frontend/public/screenshots/homedark.png)
+![Home dashboard light](frontend/public/screenshots/homelight.png)
+![Login screen](frontend/public/screenshots/login.png)
+![Register screen](frontend/public/screenshots/register.png)
 
 If you want, I can add a `backend/sample-data/transactions.json` example file.
 
