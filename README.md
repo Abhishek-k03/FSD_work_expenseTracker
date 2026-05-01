@@ -27,11 +27,9 @@ Visit `http://localhost:3000` for the client and `http://localhost:8080` for the
 
 Add screenshots to `frontend/public/screenshots/` and sample data (JSON) to `backend/sample-data/`.
 
-- Dashboard: `frontend/public/screenshots/dashboard.png` (placeholder)
-- Login: `frontend/public/screenshots/login.png` (placeholder)
-- Signup: `frontend/public/screenshots/signup.png` (placeholder)
-
-If you want, I can add a `backend/sample-data/transactions.json` example file.
+- Dashboard: `frontend/public/screenshots/homedark.png`
+- Login: `frontend/public/screenshots/login.png`
+- Signup: `frontend/public/screenshots/register.png`
 
 ## Contributing
 
