@@ -77,7 +77,3 @@ If you want, I can add a `backend/sample-data/transactions.json` example file.
 ## License
 
 MIT — see `LICENSE`.
-
----
-
-Author: Subham Nayak
